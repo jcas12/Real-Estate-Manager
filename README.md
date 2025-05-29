@@ -50,7 +50,7 @@ Real-Estate-Manager-main/
 - `pip install -r requirements.txt` (see below)
 
 ### 🔑 The `.env` file
-
+# This will be created manually at the root of the project.
 ```env
 DB_HOST=localhost
 DB_USER=root
