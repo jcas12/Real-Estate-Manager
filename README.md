@@ -38,6 +38,7 @@ Real-Estate-Manager-main/
 │
 ├── icons/                      # App icons
 ├── photos/                     # Sample house photos
+├── .env                        # Needs to be created
 └── README.md                   # This file
 ```
 
