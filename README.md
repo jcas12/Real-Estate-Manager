@@ -1,6 +1,6 @@
 # Real Estate Manager 🏡
 
-A desktop application built with **Python** and **PyQt5** to manage real estate property listings, with full CRUD operations and image support, was created for the CECS 3210 course from PUPR and was presented as a demo.
+A desktop application built with **Python** and **PyQt5** to manage real estate property listings, with full CRUD operations and image support.
 
 ---
 
