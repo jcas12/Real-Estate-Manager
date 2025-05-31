@@ -83,7 +83,7 @@ class MainWindow(QMainWindow):
 
     # Show credits/about info
     def show_about(self):
-        QMessageBox.information(self, "About", "Developed by: Argenis Velez, Juan Soto & Julio Cuello")
+        QMessageBox.information(self, "About", "Developed by: Argenis, Juan & Julio")
 
 # Starts the app
 if __name__ == "__main__":
