@@ -56,7 +56,6 @@ cffi==1.17.1
 cryptography==45.0.3
 packaging==25.0
 pycparser==2.22
-pygame-ce==2.5.5
 PyMySQL==1.1.1
 PyQt5==5.15.11
 PyQt5-Qt5==5.15.2
