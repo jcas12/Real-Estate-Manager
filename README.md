@@ -1,6 +1,6 @@
 # Real Estate Manager 🏡
 
-A desktop application built with **Python** and **PyQt5** to manage real estate property listings, with full CRUD operations and image support, was created for the CECS 3210 course from PUPR and was presented as a demo.
+A desktop application built with **Python** and **PyQt5** to manage real estate property listings, with full CRUD operations and image support.
 
 ---
 
@@ -38,6 +38,7 @@ Real-Estate-Manager-main/
 │
 ├── icons/                      # App icons
 ├── photos/                     # Sample house photos
+├── .env                        # Needs to be created
 └── README.md                   # This file
 ```
 
@@ -50,7 +51,7 @@ Real-Estate-Manager-main/
 - `pip install -r requirements.txt` (see below)
 
 ### 🔑 The `.env` file
-
+# This will be created manually at the root of the project.
 ```env
 DB_HOST=localhost
 DB_USER=root
