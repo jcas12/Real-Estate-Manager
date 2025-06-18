@@ -48,7 +48,23 @@ Real-Estate-Manager-main/
 
 - Python 3.11 or later
 - MySQL running locally
-- `pip install -r requirements.txt` (see below)
+- `pip install -r requirements.txt`
+
+```
+requirements.txt :
+cffi==1.17.1
+cryptography==45.0.3
+packaging==25.0
+pycparser==2.22
+PyMySQL==1.1.1
+PyQt5==5.15.11
+PyQt5-Qt5==5.15.2
+PyQt5_sip==12.17.0
+python-dotenv==1.1.0
+PyTMX==3.32
+setuptools==80.7.1
+sip==6.11.0
+```
 
 ### 🔑 The `.env` file
 # This will be created manually at the root of the project.
