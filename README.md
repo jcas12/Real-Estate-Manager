@@ -90,14 +90,6 @@ python main.py
 
 ---
 
-## 📦 Dependencies
-
-```bash
-pip install PyQt5 pymysql python-dotenv
-```
-
----
-
 ## 📸 Screenshots
 
 ### 🏠 Main Window
