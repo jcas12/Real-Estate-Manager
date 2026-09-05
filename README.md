@@ -119,4 +119,4 @@ python main.py
 
 - `.env` is git-ignored for security
 - Images are displayed using relative paths in-app
-- Built for academic use
+- Built for academic & profesional use
